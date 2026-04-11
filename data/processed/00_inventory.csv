@@ -1,0 +1,6 @@
+dataset,source,rows,columns,null_pct,duplicate_rows,notes
+A — Jobs in Data 2024,Kaggle,14199,12,0.0,5493,"salary, role, experience, country"
+B — AI Job Market 2026,Kaggle,10345,19,0.0,0,"skills flags, salary, postings"
+C — BLS OEWS May 2024,BLS.gov,1403,32,18.55,0,"830 occupations, mean/median wage"
+D — AI Job Trends 2024-2030,Kaggle,30000,13,0.0,0,"AI displacement, growth projections"
+E — Oxford Automation Probs,Mendeley,65,6,0.0,0,Frey-Osborne probability 0-1
